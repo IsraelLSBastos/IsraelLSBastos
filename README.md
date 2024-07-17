@@ -36,6 +36,8 @@
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-FFD43B?style=flat-square&logo=python&logoColor=white) 
 ![Time](https://img.shields.io/badge/Time-000000?style=flat-square&logo=python&logoColor=white)
 
+<br>
+
 ## 💼 Projetos em Destaque
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -43,6 +45,7 @@
 
 - ### [Automação de Tarefas com Python](https://github.com/IsraelBastos/automacao-tarefas)
 
+<br>
 <br>
 <br>
 <br>
