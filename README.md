@@ -41,9 +41,8 @@
 ## 💼 Projetos em Destaque
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- ### [Análise de Dados com Python](https://github.com/IsraelBastos/analise-dados-cancelamentos)
-
-- ### [Automação de Tarefas com Python](https://github.com/IsraelBastos/automacao-tarefas)
+- [Análise de Dados com Python](https://github.com/israellsbastos/Python-AnaliseDeDados)
+- [Automação de Tarefas com Python](https://github.com/israellsbastos/Automacao-Cadastros-Python)
 
 <br>
 <br>
